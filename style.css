@@ -1,0 +1,19 @@
+.body_backgorund 
+{
+    background-image:url(https://1.bp.blogspot.com/-JzYB792wT9o/YB9NaxFUcOI/AAAAAAABcOc/JOUt5J_uHsAOBroIYOx9Dl6eKIFZCJwcQCNcBGAsYHQ/w1200-h630-p-k-no-nu/Power-Rangers-Dino-Fury-Logo.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
